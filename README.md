@@ -34,9 +34,9 @@ Welcome to the React Dice Game, a web-based game where players select a number, 
 2. **Navigate to the Directory:**
    ```bash
      cd react-dice-game
-    Install Dependencies:
+    
 
-3. **Copy the Code:**
+3. **Install Dependencies:**
    ```bash
     npm install
 
