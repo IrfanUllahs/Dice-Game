@@ -43,3 +43,20 @@ Welcome to the React Dice Game, a web-based game where players select a number, 
 2. **Run the application:**
    ```bash
    npm start
+
+4. **Select a Number and Play:**
+
+Enter a number between 1 and 6.
+Click the "Roll Dice" button to see the outcome.
+Earn points based on the result and enjoy the game!
+
+**Contributing**
+If you would like to contribute to the project, please follow these steps:
+
+Fork the project.
+Create a new branch.
+Make your changes and commit them.
+Submit a pull request.
+Feel free to enhance the game further by adding new features, improving the user interface, or optimizing the code. Let's make the React Dice Game even more entertaining together!
+
+Enjoy rolling the virtual dice and testing your luck! 🎲
